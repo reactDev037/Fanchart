@@ -1,5 +1,5 @@
 {
-    "name": "reactDev037/Finchart-Storybook",
+    "name": "reactDev037/Finchart",
     "description": "This modules provides an SVG ancestral fan chart for the [webtrees](https://www.webtrees.net) genealogy application.",
     "license": "GPL-3.0-or-later",
     "type": "webtrees-module",
